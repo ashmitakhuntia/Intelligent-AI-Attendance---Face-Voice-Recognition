@@ -54,7 +54,13 @@ def style_base_layout():
                 line-height: 0.9 !important;
                 margin-bottom: 0rem !important;
             }
-            h3, h4, p{
+            h3{
+                font-family: 'Climate Crisis', sans-serif !important;
+                font-size: 2rem !important;
+                line-height: 0.9 !important;
+                margin-bottom: 0rem !important;
+            }
+            h4, p{
                 font-family: 'Outfit', sans-serif
             }
             button{
